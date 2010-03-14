@@ -337,7 +337,7 @@ public class MainView extends FrameView {
         this.index = new Vector<Pair<String, Integer>>(INDEX_APPROX_SIZE);
         while ((line = indexReader.readLine()) != null){
 
-            String [] entryPos = line.split("\\s+");
+            String [] entryPos = line.split("\\t+");
 
             this.index.add(new Pair<String, Integer>(entryPos[0], Integer.parseInt(entryPos[1])));
         }
