@@ -79,6 +79,6 @@ close(IN);
 open(OUT, ">", $ARGV[2]) || die("Could not open output.\n");
 for (my $i = 0; $i < @entries; ++$i){
 
-    print(OUT "$entries[$i] $filepos[$i]\n");
+    print(OUT "$entries[$i]\t$filepos[$i]\n");
 }
 close(OUT);
