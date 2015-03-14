@@ -1,5 +1,10 @@
-A Java code that creates a simple searchable dictionary that may be packed 
-into one JAR file out of dictionary entries in simple HTML format.
+AhdWort
+=======
+
+A Java tool that packs a simple searchable dictionary
+into one JAR file, given dictionary entries in a simple HTML format.
+
+I have created this little tool to get a simple, searchable version of Gerhard Köbler's [http://www.koeblergerhard.de/ahdwbhin.html](Althochdeutsches Wörterbuch).
 
 ---
 
