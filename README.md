@@ -4,7 +4,7 @@ AhdWort
 A Java tool that packs a simple searchable dictionary
 into one JAR file, given dictionary entries in a simple HTML format.
 
-I have created this little tool to get a simple, searchable version of Gerhard Köbler's [http://www.koeblergerhard.de/ahdwbhin.html](Althochdeutsches Wörterbuch).
+I have created this little tool to get a simple, searchable version of Gerhard Köbler's [Althochdeutsches Wörterbuch](http://www.koeblergerhard.de/ahdwbhin.html).
 
 ---
 
